@@ -1,0 +1,4 @@
+#Wed Jun 23 23:09:12 PKT 2021
+base.0=D\:\\flutterprojects\\saya\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
